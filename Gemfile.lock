@@ -9,6 +9,7 @@ GEM
     concurrent-ruby (1.0.5)
     i18n (1.0.1)
       concurrent-ruby (~> 1.0)
+    memoist (0.16.0)
     minitest (5.11.3)
     thread_safe (0.3.6)
     tzinfo (1.2.5)
@@ -19,6 +20,7 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport
+  memoist
 
 BUNDLED WITH
    1.16.1
